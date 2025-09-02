@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there, I'm David 👋
+
+🚀 Site Reliability Engineer | Cloud & Infrastructure Automation
+
+I’m passionate about building scalable, reliable systems and automating infrastructure.  
+With hands-on experience in **cloud platforms, distributed systems, and backend development**,  
+I enjoy solving complex problems and making systems run smoothly at scale.
+
+---
+
+## 🌐 Connect with me
+- 📧 [Email Me](mailto:davidsugianto23@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-sugianto)
 
 <!--
 **davidsugianto/davidsugianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
