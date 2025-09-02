@@ -1,6 +1,6 @@
 ## Hi there, I'm David 👋
 
-🚀 Site Reliability Engineer | Cloud & Infrastructure Automation
+🚀 System Engineer | Cloud & Infrastructure Automation
 
 I’m passionate about building scalable, reliable systems and automating infrastructure.  
 With hands-on experience in **cloud platforms, distributed systems, and backend development**,  
