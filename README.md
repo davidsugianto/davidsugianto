@@ -10,7 +10,7 @@ I enjoy solving complex problems and making systems run smoothly at scale.
 
 ## 🌐 Connect with me
 - 📧 [Email Me](mailto:davidsugianto23@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-sugianto)
+- 💼 [LinkedIn](https://www.linkedin.com/in/davidsugianto8)
 
 <!--
 **davidsugianto/davidsugianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
